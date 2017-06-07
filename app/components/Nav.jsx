@@ -10,6 +10,6 @@ var Nav = (props) => {
         <Link to='/examples'>Examples</Link>
       </div>
   );
-}
+};
 
 module.exports = Nav;
