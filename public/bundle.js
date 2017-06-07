@@ -940,10 +940,9 @@ eval("\n\nvar _react = __webpack_require__(5);\n\nvar _react2 = _interopRequireD
 
 /***/ }),
 /* 125 */
-/***/ (function(module, exports, __webpack_require__) {
+/***/ (function(module, exports) {
 
-"use strict";
-eval("\n\nvar React = __webpack_require__(5);\n\nvar About = function About(props) {\n  return React.createElement(\n    'h3',\n    null,\n    'About Components'\n  );\n};\n\nmodule.exports = About;//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiMTI1LmpzIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vL2FwcC9jb21wb25lbnRzL0Fib3V0LmpzeD8yNThmIl0sInNvdXJjZXNDb250ZW50IjpbInZhciBSZWFjdCA9IHJlcXVpcmUoJ3JlYWN0Jyk7XHJcblxyXG52YXIgQWJvdXQgPSAocHJvcHMpID0+IHtcclxuICByZXR1cm4gKFxyXG4gICAgPGgzPkFib3V0IENvbXBvbmVudHM8L2gzPlxyXG4gICk7XHJcbn07XHJcblxyXG5tb2R1bGUuZXhwb3J0cyA9IEFib3V0O1xyXG5cblxuXG4vLyBXRUJQQUNLIEZPT1RFUiAvL1xuLy8gYXBwL2NvbXBvbmVudHMvQWJvdXQuanN4Il0sIm1hcHBpbmdzIjoiOztBQUFBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFBQTtBQUFBO0FBQUE7QUFFQTtBQUNBO0FBQ0EiLCJzb3VyY2VSb290IjoiIn0=");
+eval("throw new Error(\"Module build failed: SyntaxError: C:/Users/aoda/Documents/WeatherApp/app/components/About.jsx: Adjacent JSX elements must be wrapped in an enclosing tag (6:4)\\n\\n\\u001b[0m \\u001b[90m 4 | \\u001b[39m  \\u001b[36mreturn\\u001b[39m (\\n \\u001b[90m 5 | \\u001b[39m    \\u001b[33m<\\u001b[39m\\u001b[33mh3\\u001b[39m\\u001b[33m>\\u001b[39m\\u001b[33mAbout\\u001b[39m\\u001b[33m<\\u001b[39m\\u001b[33m/\\u001b[39m\\u001b[33mh3\\u001b[39m\\u001b[33m>\\u001b[39m\\n\\u001b[31m\\u001b[1m>\\u001b[22m\\u001b[39m\\u001b[90m 6 | \\u001b[39m    \\u001b[33m<\\u001b[39m\\u001b[33mp\\u001b[39m\\u001b[33m>\\u001b[39m\\u001b[33mWelcome\\u001b[39m to \\u001b[33mAbout\\u001b[39m page\\u001b[33m<\\u001b[39m\\u001b[33m/\\u001b[39m\\u001b[33mp\\u001b[39m\\u001b[33m>\\u001b[39m\\n \\u001b[90m   | \\u001b[39m    \\u001b[31m\\u001b[1m^\\u001b[22m\\u001b[39m\\n \\u001b[90m 7 | \\u001b[39m  )\\u001b[33m;\\u001b[39m\\n \\u001b[90m 8 | \\u001b[39m}\\u001b[33m;\\u001b[39m\\n \\u001b[90m 9 | \\u001b[39m\\u001b[0m\\n\");//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiMTI1LmpzIiwic291cmNlcyI6W10sIm1hcHBpbmdzIjoiIiwic291cmNlUm9vdCI6IiJ9");
 
 /***/ }),
 /* 126 */
