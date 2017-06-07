@@ -940,9 +940,10 @@ eval("\n\nvar _react = __webpack_require__(5);\n\nvar _react2 = _interopRequireD
 
 /***/ }),
 /* 125 */
-/***/ (function(module, exports) {
+/***/ (function(module, exports, __webpack_require__) {
 
-eval("throw new Error(\"Module build failed: SyntaxError: C:/Users/aoda/Documents/WeatherApp/app/components/About.jsx: Adjacent JSX elements must be wrapped in an enclosing tag (6:4)\\n\\n\\u001b[0m \\u001b[90m 4 | \\u001b[39m  \\u001b[36mreturn\\u001b[39m (\\n \\u001b[90m 5 | \\u001b[39m    \\u001b[33m<\\u001b[39m\\u001b[33mh3\\u001b[39m\\u001b[33m>\\u001b[39m\\u001b[33mAbout\\u001b[39m\\u001b[33m<\\u001b[39m\\u001b[33m/\\u001b[39m\\u001b[33mh3\\u001b[39m\\u001b[33m>\\u001b[39m\\n\\u001b[31m\\u001b[1m>\\u001b[22m\\u001b[39m\\u001b[90m 6 | \\u001b[39m    \\u001b[33m<\\u001b[39m\\u001b[33mp\\u001b[39m\\u001b[33m>\\u001b[39m\\u001b[33mWelcome\\u001b[39m to \\u001b[33mAbout\\u001b[39m page\\u001b[33m<\\u001b[39m\\u001b[33m/\\u001b[39m\\u001b[33mp\\u001b[39m\\u001b[33m>\\u001b[39m\\n \\u001b[90m   | \\u001b[39m    \\u001b[31m\\u001b[1m^\\u001b[22m\\u001b[39m\\n \\u001b[90m 7 | \\u001b[39m  )\\u001b[33m;\\u001b[39m\\n \\u001b[90m 8 | \\u001b[39m}\\u001b[33m;\\u001b[39m\\n \\u001b[90m 9 | \\u001b[39m\\u001b[0m\\n\");//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiMTI1LmpzIiwic291cmNlcyI6W10sIm1hcHBpbmdzIjoiIiwic291cmNlUm9vdCI6IiJ9");
+"use strict";
+eval("\n\nvar React = __webpack_require__(5);\n\nvar About = function About(props) {\n  return React.createElement(\n    'div',\n    null,\n    React.createElement(\n      'h3',\n      null,\n      'About'\n    ),\n    React.createElement(\n      'p',\n      null,\n      'Welcome to About page'\n    )\n  );\n};\n\nmodule.exports = About;//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiMTI1LmpzIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vL2FwcC9jb21wb25lbnRzL0Fib3V0LmpzeD8yNThmIl0sInNvdXJjZXNDb250ZW50IjpbInZhciBSZWFjdCA9IHJlcXVpcmUoJ3JlYWN0Jyk7XHJcblxyXG52YXIgQWJvdXQgPSAocHJvcHMpID0+IHtcclxuICByZXR1cm4gKFxyXG4gICAgPGRpdj5cclxuICAgICAgPGgzPkFib3V0PC9oMz5cclxuICAgICAgPHA+V2VsY29tZSB0byBBYm91dCBwYWdlPC9wPiAgICAgIFxyXG4gICAgPC9kaXY+XHJcbiAgKTtcclxufTtcclxuXHJcbm1vZHVsZS5leHBvcnRzID0gQWJvdXQ7XHJcblxuXG5cbi8vIFdFQlBBQ0sgRk9PVEVSIC8vXG4vLyBhcHAvY29tcG9uZW50cy9BYm91dC5qc3giXSwibWFwcGluZ3MiOiI7O0FBQUE7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUFBO0FBQ0E7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUNBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFGQTtBQUtBO0FBQ0E7QUFDQSIsInNvdXJjZVJvb3QiOiIifQ==");
 
 /***/ }),
 /* 126 */
