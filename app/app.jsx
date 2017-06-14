@@ -9,6 +9,9 @@ jQuery(document).ready(function($) {
   $(document).foundation();
 });
 
+//App css
+require('style-loader!css-loader!applicationStyles')
+
 ReactDOM.render(
   <HashRouter>
     <Main/>
