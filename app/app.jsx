@@ -10,7 +10,7 @@ jQuery(document).ready(function($) {
 });
 
 //App css
-require('style-loader!css-loader!applicationStyles')
+require('style-loader!css-loader!sass-loader!applicationStyles')
 
 ReactDOM.render(
   <HashRouter>
